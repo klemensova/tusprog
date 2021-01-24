@@ -1,0 +1,29 @@
+/** {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    width: 100%;
+}
+
+header-cmp {
+    display: block;
+    height: 100px;
+    width: 100%;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.center {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}*/
